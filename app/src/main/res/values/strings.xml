@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AppSQLiteCRUD</string>
+    <string name="texto_principal">Dados Cadastrados</string>
+    <string name="texto_cadastro">Cadastrar</string>
+    <string name="bt_cadastrar">Novo Cadastro</string>
+    <string name="bt_salvar">Salvar Cadastro</string>
+    <string name="hint_nome">Nome</string>
+    <string name="hint_idade">Idade</string>
+    <string name="hint_email">E-mail</string>
+    <string name="hint_endereco">Endereço</string>
+    <string name="hint_principal">
+        Toque sobre o nome para editar o cadastro.
+        Mantenha pressionado para excluir.
+        Deslize a lista para exibir mais registros.
+    </string>
+</resources>
